@@ -21,8 +21,16 @@ body {
   border: 1px black;
 }
 .progress {
-  margin-top: 4rem;
+  margin-top: 2rem;
   margin-bottom: 4rem;
+  height: 2rem;
+}
+iframe {
+  padding-top: 1rem;
+}
+#rowSinPad {
+  margin-top: 0;
+  padding-top: 0;
 }
 #prese {
   font-weight: bolder;
