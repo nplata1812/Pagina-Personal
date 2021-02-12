@@ -27,6 +27,8 @@ body {
 }
 iframe {
   padding-top: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 #rowSinPad {
   margin-top: 0;
